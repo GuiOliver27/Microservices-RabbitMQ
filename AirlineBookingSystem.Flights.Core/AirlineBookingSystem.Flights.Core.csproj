@@ -10,4 +10,8 @@
     <Folder Include="Entities\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AirlineBookingSystem.Bookings.Core\AirlineBookingSystem.Bookings.Core.csproj" />
+  </ItemGroup>
+
 </Project>
